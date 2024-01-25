@@ -1,4 +1,4 @@
-public class forkbomb_
+public class Forkbomb
 {
 	public static void main(String[] args)
 	{
